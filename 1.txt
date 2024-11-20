@@ -1,0 +1,5 @@
+hello nihar
+this is my 1st txt file
+welcome
+new editing style 
+now we are using edit through vi command
